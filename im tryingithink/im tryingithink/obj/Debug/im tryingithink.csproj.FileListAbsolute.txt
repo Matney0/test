@@ -1,0 +1,2 @@
+C:\Users\Matney\source\repos\im tryingithink\im tryingithink\obj\Debug\im tryingithink.csproj.AssemblyReference.cache
+C:\Users\Matney\source\repos\im tryingithink\im tryingithink\obj\Debug\im tryingithink.csproj.CoreCompileInputs.cache

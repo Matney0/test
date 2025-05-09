@@ -1,0 +1,7 @@
+C:\Users\Matney\source\repos\Study1.2\Study1.2\bin\Debug\Study1.2.exe.config
+C:\Users\Matney\source\repos\Study1.2\Study1.2\bin\Debug\Study1.2.exe
+C:\Users\Matney\source\repos\Study1.2\Study1.2\bin\Debug\Study1.2.pdb
+C:\Users\Matney\source\repos\Study1.2\Study1.2\obj\Debug\Study1.2.csproj.AssemblyReference.cache
+C:\Users\Matney\source\repos\Study1.2\Study1.2\obj\Debug\Study1.2.csproj.CoreCompileInputs.cache
+C:\Users\Matney\source\repos\Study1.2\Study1.2\obj\Debug\Study1.2.exe
+C:\Users\Matney\source\repos\Study1.2\Study1.2\obj\Debug\Study1.2.pdb

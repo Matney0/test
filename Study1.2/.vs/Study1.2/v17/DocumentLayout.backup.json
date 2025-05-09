@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matney\\source\\repos\\Study1.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DADF0C3-EC39-4EEC-B27E-E5698B95DFC8}|Study1.2\\Study1.2.csproj|c:\\users\\matney\\source\\repos\\study1.2\\study1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DADF0C3-EC39-4EEC-B27E-E5698B95DFC8}|Study1.2\\Study1.2.csproj|solutionrelative:study1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matney\\source\\repos\\Study1.2\\Study1.2\\Program.cs",
+              "RelativeDocumentMoniker": "Study1.2\\Program.cs",
+              "ToolTip": "C:\\Users\\Matney\\source\\repos\\Study1.2\\Study1.2\\Program.cs*",
+              "RelativeToolTip": "Study1.2\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T18:41:44.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

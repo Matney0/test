@@ -1,0 +1,7 @@
+C:\Users\Matney\source\repos\Study3\Study3\obj\Debug\Study3.csproj.AssemblyReference.cache
+C:\Users\Matney\source\repos\Study3\Study3\obj\Debug\Study3.csproj.CoreCompileInputs.cache
+C:\Users\Matney\source\repos\Study3\Study3\bin\Debug\Study3.exe.config
+C:\Users\Matney\source\repos\Study3\Study3\bin\Debug\Study3.exe
+C:\Users\Matney\source\repos\Study3\Study3\bin\Debug\Study3.pdb
+C:\Users\Matney\source\repos\Study3\Study3\obj\Debug\Study3.exe
+C:\Users\Matney\source\repos\Study3\Study3\obj\Debug\Study3.pdb

@@ -1,0 +1,7 @@
+C:\Users\Matney\source\repos\practiceFactorial\practiceFactorial\bin\Debug\practiceFactorial.exe.config
+C:\Users\Matney\source\repos\practiceFactorial\practiceFactorial\bin\Debug\practiceFactorial.exe
+C:\Users\Matney\source\repos\practiceFactorial\practiceFactorial\bin\Debug\practiceFactorial.pdb
+C:\Users\Matney\source\repos\practiceFactorial\practiceFactorial\obj\Debug\practiceFactorial.csproj.AssemblyReference.cache
+C:\Users\Matney\source\repos\practiceFactorial\practiceFactorial\obj\Debug\practiceFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Matney\source\repos\practiceFactorial\practiceFactorial\obj\Debug\practiceFactorial.exe
+C:\Users\Matney\source\repos\practiceFactorial\practiceFactorial\obj\Debug\practiceFactorial.pdb

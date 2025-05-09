@@ -1,0 +1,7 @@
+C:\Users\Matney\source\repos\Study2\Study2\obj\Debug\Study2.csproj.AssemblyReference.cache
+C:\Users\Matney\source\repos\Study2\Study2\obj\Debug\Study2.csproj.CoreCompileInputs.cache
+C:\Users\Matney\source\repos\Study2\Study2\bin\Debug\Study2.exe.config
+C:\Users\Matney\source\repos\Study2\Study2\bin\Debug\Study2.exe
+C:\Users\Matney\source\repos\Study2\Study2\bin\Debug\Study2.pdb
+C:\Users\Matney\source\repos\Study2\Study2\obj\Debug\Study2.exe
+C:\Users\Matney\source\repos\Study2\Study2\obj\Debug\Study2.pdb

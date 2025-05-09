@@ -1,0 +1,7 @@
+C:\Users\Matney\source\repos\Shopping cart\Shopping cart\bin\Debug\Shopping cart.exe.config
+C:\Users\Matney\source\repos\Shopping cart\Shopping cart\bin\Debug\Shopping cart.exe
+C:\Users\Matney\source\repos\Shopping cart\Shopping cart\bin\Debug\Shopping cart.pdb
+C:\Users\Matney\source\repos\Shopping cart\Shopping cart\obj\Debug\Shopping cart.csproj.AssemblyReference.cache
+C:\Users\Matney\source\repos\Shopping cart\Shopping cart\obj\Debug\Shopping cart.csproj.CoreCompileInputs.cache
+C:\Users\Matney\source\repos\Shopping cart\Shopping cart\obj\Debug\Shopping cart.exe
+C:\Users\Matney\source\repos\Shopping cart\Shopping cart\obj\Debug\Shopping cart.pdb

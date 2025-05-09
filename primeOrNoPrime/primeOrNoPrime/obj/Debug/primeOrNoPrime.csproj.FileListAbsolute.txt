@@ -1,0 +1,7 @@
+C:\Users\Matney\source\repos\primeOrNoPrime\primeOrNoPrime\bin\Debug\primeOrNoPrime.exe.config
+C:\Users\Matney\source\repos\primeOrNoPrime\primeOrNoPrime\bin\Debug\primeOrNoPrime.exe
+C:\Users\Matney\source\repos\primeOrNoPrime\primeOrNoPrime\bin\Debug\primeOrNoPrime.pdb
+C:\Users\Matney\source\repos\primeOrNoPrime\primeOrNoPrime\obj\Debug\primeOrNoPrime.csproj.AssemblyReference.cache
+C:\Users\Matney\source\repos\primeOrNoPrime\primeOrNoPrime\obj\Debug\primeOrNoPrime.csproj.CoreCompileInputs.cache
+C:\Users\Matney\source\repos\primeOrNoPrime\primeOrNoPrime\obj\Debug\primeOrNoPrime.exe
+C:\Users\Matney\source\repos\primeOrNoPrime\primeOrNoPrime\obj\Debug\primeOrNoPrime.pdb

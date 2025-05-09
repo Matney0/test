@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matney\\source\\repos\\Shopping cart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD814B47-BAA9-4939-9978-E3E51CE38644}|Shopping cart\\Shopping cart.csproj|c:\\users\\matney\\source\\repos\\shopping cart\\shopping cart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD814B47-BAA9-4939-9978-E3E51CE38644}|Shopping cart\\Shopping cart.csproj|solutionrelative:shopping cart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matney\\source\\repos\\Shopping cart\\Shopping cart\\Program.cs",
+              "RelativeDocumentMoniker": "Shopping cart\\Program.cs",
+              "ToolTip": "C:\\Users\\Matney\\source\\repos\\Shopping cart\\Shopping cart\\Program.cs",
+              "RelativeToolTip": "Shopping cart\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwD8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T19:10:44.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matney\\source\\repos\\check numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49B00857-E3D8-4C68-8DD9-B370CB3A856B}|check numbers\\check numbers.csproj|c:\\users\\matney\\source\\repos\\check numbers\\check numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49B00857-E3D8-4C68-8DD9-B370CB3A856B}|check numbers\\check numbers.csproj|solutionrelative:check numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matney\\source\\repos\\check numbers\\check numbers\\Program.cs",
+              "RelativeDocumentMoniker": "check numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Matney\\source\\repos\\check numbers\\check numbers\\Program.cs",
+              "RelativeToolTip": "check numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T19:53:21.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

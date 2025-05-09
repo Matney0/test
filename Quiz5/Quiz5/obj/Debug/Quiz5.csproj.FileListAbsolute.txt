@@ -1,0 +1,7 @@
+C:\Users\Matney\source\repos\Quiz5\Quiz5\bin\Debug\Quiz5.exe.config
+C:\Users\Matney\source\repos\Quiz5\Quiz5\bin\Debug\Quiz5.exe
+C:\Users\Matney\source\repos\Quiz5\Quiz5\bin\Debug\Quiz5.pdb
+C:\Users\Matney\source\repos\Quiz5\Quiz5\obj\Debug\Quiz5.csproj.AssemblyReference.cache
+C:\Users\Matney\source\repos\Quiz5\Quiz5\obj\Debug\Quiz5.csproj.CoreCompileInputs.cache
+C:\Users\Matney\source\repos\Quiz5\Quiz5\obj\Debug\Quiz5.exe
+C:\Users\Matney\source\repos\Quiz5\Quiz5\obj\Debug\Quiz5.pdb

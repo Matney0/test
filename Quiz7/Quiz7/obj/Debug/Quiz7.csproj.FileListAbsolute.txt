@@ -1,0 +1,2 @@
+C:\Users\Matney\source\repos\Quiz7\Quiz7\obj\Debug\Quiz7.csproj.AssemblyReference.cache
+C:\Users\Matney\source\repos\Quiz7\Quiz7\obj\Debug\Quiz7.csproj.CoreCompileInputs.cache

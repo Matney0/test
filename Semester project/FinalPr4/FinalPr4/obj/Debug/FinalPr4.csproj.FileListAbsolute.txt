@@ -1,0 +1,7 @@
+C:\Users\Matney\source\repos\Semester project\FinalPr4\FinalPr4\bin\Debug\FinalPr4.exe.config
+C:\Users\Matney\source\repos\Semester project\FinalPr4\FinalPr4\bin\Debug\FinalPr4.exe
+C:\Users\Matney\source\repos\Semester project\FinalPr4\FinalPr4\bin\Debug\FinalPr4.pdb
+C:\Users\Matney\source\repos\Semester project\FinalPr4\FinalPr4\obj\Debug\FinalPr4.csproj.AssemblyReference.cache
+C:\Users\Matney\source\repos\Semester project\FinalPr4\FinalPr4\obj\Debug\FinalPr4.csproj.CoreCompileInputs.cache
+C:\Users\Matney\source\repos\Semester project\FinalPr4\FinalPr4\obj\Debug\FinalPr4.exe
+C:\Users\Matney\source\repos\Semester project\FinalPr4\FinalPr4\obj\Debug\FinalPr4.pdb

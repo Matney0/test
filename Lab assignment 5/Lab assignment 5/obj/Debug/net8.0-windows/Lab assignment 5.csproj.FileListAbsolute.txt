@@ -1,0 +1,6 @@
+C:\Users\Matney\source\repos\Lab assignment 5\Lab assignment 5\obj\Debug\net8.0-windows\Lab_assignment_5.Form1.resources
+C:\Users\Matney\source\repos\Lab assignment 5\Lab assignment 5\obj\Debug\net8.0-windows\Lab assignment 5.csproj.GenerateResource.cache
+C:\Users\Matney\source\repos\Lab assignment 5\Lab assignment 5\obj\Debug\net8.0-windows\Lab assignment 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matney\source\repos\Lab assignment 5\Lab assignment 5\obj\Debug\net8.0-windows\Lab assignment 5.AssemblyInfoInputs.cache
+C:\Users\Matney\source\repos\Lab assignment 5\Lab assignment 5\obj\Debug\net8.0-windows\Lab assignment 5.AssemblyInfo.cs
+C:\Users\Matney\source\repos\Lab assignment 5\Lab assignment 5\obj\Debug\net8.0-windows\Lab assignment 5.csproj.CoreCompileInputs.cache
